@@ -101,6 +101,17 @@ http://localhost:5173
 - Inventory Notifications
 
 ---
+## 🎥 Demo Video
+
+A demonstration video of the project is included in this repository.
+
+**To download the video:**
+
+1. Open the demo video file in the repository.
+2. Click the **Raw** button.
+3. The video will begin downloading automatically.
+
+---
 
 ## 👨‍💻 Author
 
